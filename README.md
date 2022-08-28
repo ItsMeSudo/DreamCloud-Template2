@@ -1,3 +1,3 @@
-# SUDO | DreamCloud-Template2
+# SUDO | DreamCloud-Template1
 
-Discord.js V13 alap.
+Discord.js V14 alap.
